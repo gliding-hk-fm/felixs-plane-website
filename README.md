@@ -1,4 +1,4 @@
-# felixs-plane-website
+# Felix's Plane Website
 This website shows a picture of one of my favourite aircraft and says a little bit about me
 
 # Info from Club
